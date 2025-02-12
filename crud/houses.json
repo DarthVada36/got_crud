@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Stark",
+        "motto": "Winter is Coming"
+    },
+    {
+        "id": 2,
+        "name": "Lannister",
+        "motto": "Hear Me Roar"
+    },
+    {
+        "id": 3,
+        "name": "Targaryen",
+        "motto": "Fire and Blood"
+    }
+]
